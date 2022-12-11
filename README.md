@@ -1,2 +1,2 @@
 # Python_Sprider_study
-use Spider
+use Spider technology
